@@ -11,7 +11,14 @@ I am a first-year Computer Science PhD student at the <a href="https://engineeri
 <br>
 <br>
 <br>
-### Contact
+### News
+- Aug. 2017, I joined UVA as a CS Phd student.
+- Jul. 2017, I received my Bachelor's degree from SYSU.
+- Feb. 2017, I was awarded a *UVA Engineering Distinguished Fellowship*, one of the most prestigious fellowships offered to engineering students at the University of Virginia.
+<br>
+<br>
+<br>
+### Find me
 Rice Hall 530 <br>
 University of Virginia <br>
 Charlottesville VA, USA
