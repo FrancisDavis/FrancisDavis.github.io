@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: projects
 title: Research
 excerpt: "A List of Publications"
 comments: false
