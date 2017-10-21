@@ -28,7 +28,7 @@ Charlottesville VA, USA
 
 
 ***
-
-<center>Friends:</center>
+     
+<center> Friends: </center>
 
 [Fuwen Tan](www.cs.virginia.edu/~ft3ex)
