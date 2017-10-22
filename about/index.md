@@ -31,5 +31,5 @@ Charlottesville VA, USA
      
 <center> Friends: </center>
 
-[Fuwen Tan](http://www.cs.virginia.edu/~ft3ex) &bull [Avinash Kalyanaraman](https://sites.google.com/site/avinashkalyanaraman/home)
+[Fuwen Tan](http://www.cs.virginia.edu/~ft3ex) &nbsp;&bull;&nbsp; [Avinash Kalyanaraman](https://sites.google.com/site/avinashkalyanaraman/home)
 
