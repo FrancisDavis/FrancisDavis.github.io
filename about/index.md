@@ -7,7 +7,7 @@ comments: false
 ---
     
 ### A brief about me
-My name in Chinese is ![](name.jpg =57x25), I am a first-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/). Currently, I am working with [Dr. Lu Feng](http://www.cs.virginia.edu/~lufeng/index.html) on probabilistic model checking. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China. 
+My name in Chinese is ![](name.jpg), I am a first-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/). Currently, I am working with [Dr. Lu Feng](http://www.cs.virginia.edu/~lufeng/index.html) on probabilistic model checking. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China. 
 <br>
 <br>
 <br>
