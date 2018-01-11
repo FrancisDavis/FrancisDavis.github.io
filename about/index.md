@@ -7,13 +7,13 @@ comments: false
 ---
     
 ### A brief about me
-I am a first-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/). Currently, I am working with [Dr. Lu Feng](http://www.cs.virginia.edu/~lufeng/index.html) on probabilistic model checking. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China. 
+I am a first-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/). My research interests mainly focus on deep learning and its application in related fields such as deep reinforcement learning, generative adversarial networks (GANs), and so on. I also have confidence in exploring new research fields with my solid training background. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China. 
 <br>
 <br>
 <br>
 
 ### News
-- Aug. 2017, I joined UVA as a CS Phd student.
+- Aug. 2017, I joined UVA as a CS PhD student.
 - Jul. 2017, I received my Bachelor's degree from SYSU.
 - Feb. 2017, I was awarded a *UVA Engineering Distinguished Fellowship*, one of the most prestigious fellowships offered to engineering students at the University of Virginia. 
 <br>
