@@ -21,11 +21,12 @@ I am a first-year Computer Science PhD student at the [University of Virginia](h
 <br>
 <br>
 
-### Misc.
-My name in Chinese is <img src="ChineseName.png">
-<br>
-<br>
-<br>
+[^_^]:
+    ### Misc.
+    My name in Chinese is <img src="ChineseName.png">
+    <br>
+    <br>
+    <br>
 
 ### Find me                          
 Rice Hall 530 <br>
