@@ -22,7 +22,7 @@ I am a first-year Computer Science PhD student at the [University of Virginia](h
 <br>
 
 ### Misc.
-My name in Chinese is <img src="ChineseName.png">
+My name in Chinese is ![](ChineseName.png)
 <br>
 <br>
 <br>
