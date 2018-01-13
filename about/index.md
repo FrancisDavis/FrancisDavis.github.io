@@ -12,7 +12,7 @@ I am a first-year Computer Science PhD student at the [University of Virginia](h
 <br>
 <br>
 <br>
-
+     
 ### News
 - Aug. 2017, I joined UVA as a CS PhD student.
 - Jul. 2017, I received my Bachelor's degree from SYSU.
@@ -28,7 +28,7 @@ I am a first-year Computer Science PhD student at the [University of Virginia](h
 <br>
 <br>
 <br>
-   
+      
 ### Find me                          
 Rice Hall 530 <br>
 University of Virginia <br>
