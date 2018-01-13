@@ -22,7 +22,6 @@ I am a first-year Computer Science PhD student at the [University of Virginia](h
    
 ### Misc
 <img src ="Misc.png" align="left">
-
 <br>
 <br>
 <br>
