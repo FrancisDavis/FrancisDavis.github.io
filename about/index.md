@@ -23,16 +23,8 @@ I am a first-year Computer Science PhD student at the [University of Virginia](h
 <br>
    
 ### Misc
-<img src ="miscellaneous.png" align="left">     
-   
-<br>   
-      
-My name in Chinese is
-
-, I enjoy swimming and running in my spare time.
-
-
-
+<img src ="Misc.png" align="left">     
+  
 <br>
 <br>
 <br>
