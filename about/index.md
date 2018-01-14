@@ -16,8 +16,9 @@ I am a first-year Computer Science PhD student at the [University of Virginia](h
 ### News
 - Aug. 2017, I joined UVA as a CS PhD student.
 - Jul. 2017, I received my Bachelor's degree from SYSU.
-- Feb. 2017, I was awarded a *UVA Engineering Distinguished Fellowship*, one of the most prestigious fellowships offered to engineering students at the University of Virginia.        
-      
+- Feb. 2017, I was awarded a *UVA Engineering Distinguished Fellowship*, one of the most prestigious fellowships offered to engineering students at the University of Virginia.    
+- My name in Chinese is, I enjoy swimming and running in my spare time.
+       
 <br>
 <br>
 <br>
