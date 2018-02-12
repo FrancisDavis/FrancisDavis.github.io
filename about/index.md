@@ -7,7 +7,7 @@ comments: false
 ---
     
 ### A brief about me
-I am a first-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/) working with [Dr. Lu Feng](http://www.cs.virginia.edu/~lufeng/index.html). My research interests mainly focus on machine learning and probabilistic graphical models, including statistical inference, Markov decision processes, and Bayesian deep learning. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China.            
+I am a first-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/) working with [Dr. Lu Feng](http://www.cs.virginia.edu/~lufeng/index.html). My research interests mainly focus on machine learning and formal methods, including reinforcement learning, Markov decision processes, and probabilistic model checking. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China.            
    
 <br>
 <br>
