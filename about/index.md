@@ -7,7 +7,7 @@ comments: false
 ---
     
 ### A brief about me
-I am a second-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/). My research interests mainly focus on artifical intelligence and machine learning, including reinforcement learning, Markov decision processes, and policy synthesis. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China.            
+I am a second-year Computer Science PhD student at the [University of Virginia](http://www.virginia.edu/) working with Dr. Lu Feng. My research interests mainly focus on artifical intelligence and machine learning, including reinforcement learning, Markov decision processes, and policy synthesis. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China.            
    
 <br>
 <br>
