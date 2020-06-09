@@ -7,7 +7,7 @@ comments: false
 ---
     
 ### A brief about me
-I am a Ph.D. student in Computer Science at [University of Virginia](http://www.virginia.edu/). My research interests mainly focus on machine learning and game theory, including deep learning, reinforcement learning, and optimization. I am also interested in mechanism design and its interaction with machine learning techniques. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China.    
+I am a Ph.D. student in Computer Science at [University of Virginia](http://www.virginia.edu/). My research interests mainly focus on game theory and computational economics (aka. EconCS), including mechanism design, learning in economic environments, and optimization. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China.    
    
 <br>
 <br>
