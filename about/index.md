@@ -13,14 +13,6 @@ I am a Ph.D. student in Computer Science at the [University of Virginia](http://
 
 <img src ="miscellaneous.png" align="left">     
    
-[comment]: # ### News
-[comment]: # - Aug. 2017, I joined UVA as a CS PhD student.
-[comment]: # - Jul. 2017, I received my Bachelor's degree from SYSU.
-[comment]: # - Feb. 2017, I was awarded a *UVA Engineering Distinguished Fellowship*, one of the most prestigious fellowships offered to engineering students at the University of Virginia.)
-  
-[comment]: # ### Misc
-[comment]: # <img src ="miscellaneous.png" align="left">     )
-     
 ### Find me                          
 Rice Hall 532 <br>
 University of Virginia <br>
