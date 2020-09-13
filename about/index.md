@@ -12,9 +12,6 @@ I am a Ph.D. student in Computer Science at the [University of Virginia](http://
 <br>
 
 <img src ="miscellaneous.png" align="left">     
-<br>
-<br>
-<br>
 <!--     
 ### News
 - Aug. 2017, I joined UVA as a CS PhD student.
