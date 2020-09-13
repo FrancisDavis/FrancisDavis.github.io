@@ -21,19 +21,10 @@ I am a Ph.D. student in Computer Science at the [University of Virginia](http://
 - Jul. 2017, I received my Bachelor's degree from SYSU.
 - Feb. 2017, I was awarded a *UVA Engineering Distinguished Fellowship*, one of the most prestigious fellowships offered to engineering students at the University of Virginia.    
        
-               
-<br>
-<br>
-<br>
-   
+               --> 
+<!--   
 ### Misc
 <img src ="miscellaneous.png" align="left">     
-  
-<br>
-<br>
-<br>
-<br>
-<br>
      --> 
 ### Find me                          
 Rice Hall 532 <br>
