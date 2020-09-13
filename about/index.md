@@ -14,7 +14,7 @@ I am a Ph.D. student in Computer Science at the [University of Virginia](http://
      
 <br>
     
-### Find me                          
+### Find me                       
 Rice Hall 532 <br>
 University of Virginia <br>
 Charlottesville VA, USA
