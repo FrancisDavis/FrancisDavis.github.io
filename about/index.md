@@ -8,10 +8,7 @@ comments: false
     
 ### A brief about me
 I am a Ph.D. student in Computer Science at the [University of Virginia](http://www.virginia.edu/). I am fortunate to be advised by [Dr. Haifeng Xu](http://www.haifeng-xu.com/) and [Dr. Michael Albert](https://www.michaelalbert.co/).  My research interests mainly focus on game theory and computational economics (aka. EconCS), including mechanism design, learning in economic environments, and optimization. Prior to UVA, I received my Bachelor's degree in Software Engineering from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), Guangzhou China.    
-     
-<img src ="miscellaneous.png" align="left">     
    
-     
 <br>
     
 ### Find me                       
